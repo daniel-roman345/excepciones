@@ -47,7 +47,13 @@ Operación finalizada
 
 Las capturas de estas pruebas se encuentran en la carpeta capturas/.
 
+Captura de la ejecución
 
+![Captura de pantalla de la ejecución del reto](Captura%20de%20pantalla%202026-08-11%20200844.png)
+
+Reflexión personal
+
+Durante el desarrollo de esta evidencia aprendí la importancia de anticipar los errores que pueden ocurrir cuando un programa recibe datos del usuario. El manejo de excepciones con try, except, else y finally me permitió escribir un código más seguro y confiable, evitando que la aplicación se detenga de forma inesperada. Al trabajar con ValueError y ZeroDivisionError comprendí que cada error tiene un contexto específico y que mostrar mensajes claros ayuda a que el usuario entienda qué debe corregir. Además, incluir un return en la función dividir_numeros() me hizo notar que una función no solo debe imprimir, sino también devolver el resultado para que pueda ser reutilizado en otras partes del programa. Esta práctica fortaleció mi comprensión sobre la programación defensiva y la calidad del software.
 
 Autor
 
