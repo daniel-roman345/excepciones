@@ -7,6 +7,8 @@ def dividir_numeros():
 
         print(f"Resultado: {resultado}")
 
+        return resultado
+
     except ValueError:
         print("Error: debe ingresar números enteros válidos.")
 
